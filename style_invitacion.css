@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(to right, #24f3d7d3, pink);
+    font-family: "Akaya Kanadaka", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin: 5;
+  }
+
+h1{
+
+    color: rgb(164, 98, 226);
+    text-align: center;
+    margin-top: 5;
+}
+
+h3{
+    color: #009090;
+    height: auto;
+    width: auto;
+}
+
+p{
+    color: #009090;
+    height: auto;
+    width: auto;
+}
+    
+
+.fotouru{
+
+    height: 50%;
+    width: 65%;
+    text-align: center;
+    border-radius: 10% ;
+
+}
+
+.contenedor{
+
+    text-align: center;
+}
+
+.mapa{
+
+    text-align: center;
+}
+
+.ig{
+
+    font-size: 30;
+    color: rgb(164, 98, 226);
+    text-align: right;
+}
+ul{
+    list-style: none;
+    text-align: right;
+}
+
+.bestial{
+
+    text-decoration: none;
+    text-align: left;
+    color: rgb(164, 98, 226);
+	justify-content: center
+}
+
+.torta{
+
+    margin-top: 5%;
+    margin-bottom: 0;
+    color:  rgb(164, 98, 226);
+    font-size: 150%;
+}
