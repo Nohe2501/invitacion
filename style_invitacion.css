@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to right, rgb(147, 235, 220), rgb(255, 219, 226));
+    background: rgb(147, 235, 220);
     font-family: "Akaya Kanadaka", serif;
     font-weight: 400;
     font-style: normal;
@@ -37,7 +37,7 @@ p{
     border-bottom: solid 5px rgb(164, 98, 226);
     border-right: solid 5px rgb(164, 98, 226);
     border-left: solid 12px rgb(164, 98, 226);
-    mask-image: linear-gradient(rgb(164, 98, 226) 95%, transparent);
+
 
 }
 
